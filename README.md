@@ -3,7 +3,7 @@ Bash Script who write to the stdout all your folder with log extension sorted ac
 
 ## 📦 Installation
 
-** Clone the repository **
+**Clone the repository**
 
 - Open terminal ( <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> )
 
@@ -13,9 +13,12 @@ Bash Script who write to the stdout all your folder with log extension sorted ac
   # Clone the repository
   $> git clone https://github.com/samuelbenichou/Serialize-Logs.git
   ```
-** Run the sript **
+**Run the sript**
 
 ```bash
 # run bash script on a linux/macos terminal
 $> bash serialize-logs.sh
 ```
+**Output**
+
+![alt text](https://github.com/samuelbenichou/Serialize-Logs/blob/master/bashOutput.png)
